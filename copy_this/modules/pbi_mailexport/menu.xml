@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OX>
+  <OXMENU id="NAVIGATION_ESHOPADMIN">
+    <MAINMENU id="mxservice">
+      <SUBMENU id="PBI_MAILEXPORT" cl="pbi_mailexport" rights="malladmin" />
+    </MAINMENU>
+  </OXMENU>
+</OX>
