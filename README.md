@@ -15,3 +15,8 @@ ToDos
 =========================================
 1. Testing Oxid 5
 2. Generate CSV template in views
+
+
+Hint
+====
+From OXID 7.x this kind of functionality will be part of the standard eShop
